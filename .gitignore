@@ -2,5 +2,3 @@ images/android_icon.o
 objs/*
 *.*~
 
-
-.DS_Store
